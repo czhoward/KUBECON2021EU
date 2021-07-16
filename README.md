@@ -29,7 +29,7 @@ kubectl get pods
 NAME                            READY   STATUS    RESTARTS   AGE
 helloservice-579fdcf676-2c4f4   1/1     Running   0          10m
 ```
-- Eanble Gitops in Litmus 
+- Enable Gitops in Litmus 
 
 ![image](https://user-images.githubusercontent.com/8190114/113475830-4d215480-9495-11eb-93d2-5a469d86aa6d.png)
 
